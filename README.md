@@ -1,1 +1,1 @@
-Esta es una prueba
+Repositorio de aprendizaje de curso de git
