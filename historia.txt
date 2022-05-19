@@ -3,7 +3,6 @@ Esta es la historia de David Vargas
 David vargas tiene 21 años y nació en Colombia
 viviendo en todo el mundo  
 
-<<<<<<< HEAD
 Exp 1
 
 Exp 2
@@ -12,12 +11,10 @@ Master 1
 
 Master 2
 
-=======
 Experimento 1
 
 Experimento 2
 
 Master 1
 
->>>>>>> 86edb8fc318075f23ae0224392224131750b6cac
 Mañana nos enfocaremos en su vida laboral. 
